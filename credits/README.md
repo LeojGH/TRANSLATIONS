@@ -1,0 +1,2 @@
+- Dedicated to YOU. Thank you for helping make IntegrityBox accessible to everyone
+- Your profile will be listed in `**IntegrityBox WebUI --> Support Developer**` section
