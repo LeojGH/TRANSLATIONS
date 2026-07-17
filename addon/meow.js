@@ -68,22 +68,6 @@
         " profile activated": " profile active ho gya h",
         "...": "..."
       };
-    } else if (LANG === 'ar') {
-      FRAG = {
-        "Analyzing user apps... (": "###…(",
-        "Checking risky apps... (": "###…(",
-        " installed packages, ": " ###, ",
-        "Found ": "### ",
-        " user apps": " ###",
-        "Active: ": " ###: ",
-        "Loaded: ": " ###: ",
-        "Mapped ": "### ",
-        "Activating ": "### ",
-        "Applying ": "### ",
-        " profile...": " ###…",
-        " profile activated": " ###",
-        "...": "…"
-      };
     } else if (LANG === 'es') {
       FRAG = {
         "Analyzing user apps... (": "Analizando las apps del usuario…(",
@@ -98,6 +82,21 @@
         "Applying ": "Aplicando ",
         " profile...": " perfil…",
         " profile activated": " perfil activado",
+        "...": "…"
+    } else if (LANG === 'ar') {
+      FRAG = {
+        "Analyzing user apps... (": "###…(",
+        "Checking risky apps... (": "###…(",
+        " installed packages, ": " ###, ",
+        "Found ": "### ",
+        " user apps": " ###",
+        "Active: ": " ###: ",
+        "Loaded: ": " ###: ",
+        "Mapped ": "### ",
+        "Activating ": "### ",
+        "Applying ": "### ",
+        " profile...": " ###…",
+        " profile activated": " ###",
         "...": "…"
       };
     }
