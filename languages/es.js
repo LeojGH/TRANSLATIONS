@@ -2,9 +2,9 @@ window.i18nDict = window.i18nDict || {};
 window.i18nDict.es = {
   /* Main Page */
   "Hated By Many, Defeated By None": "Nuestros Granos De Arena Pueden Construir Playas Enteras",
-  "Integrity Hub": "Menu de Integridad",
-  "Spoofing Hub": "Menu de Suplantacion",
-  "Meow Hub": "Menu Meow",
+  "Integrity Hub": "Menú de Integridad",
+  "Spoofing Hub": "Menú de Suplantacion",
+  "Meow Hub": "Menú Meow",
   "Community & Support": "Soporte y Comunidad",
   "Integrity:": "Integridad",
   "Profile:": "Perfil",
