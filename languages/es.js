@@ -993,145 +993,145 @@ window.i18nDict.es = {
   "Got it": "Entendido",
 
   /* Help Center */
-  "Help Center": "Help Center",
-  "Support & Resources": "Soporte & Resources",
+  "Help Center": "Centro de Ayuda",
+  "Support & Resources": "Soporte & Recursos",
 
   /* Support */
-  "Report Bug": "Informe Bug",
-  "Submit issues to Telegram": "Submit problemas para Telégrafo",
-  "Support Group": "Soporte Group",
-  "Join Telegram community": "Unirse Telégrafo community",
-  "Updates Channel": "Actualizaciones Channel",
-  "Latest news & releases": "Últimos novedades & releases",
-  "Source Code": "Fuente Código",
-  "View on GitHub": "Ver en Gitjab",
+  "Report Bug": "Reportar Problema",
+  "Submit issues to Telegram": "Enviar problemas a Telegram",
+  "Support Group": "Grupo de Soporte",
+  "Join Telegram community": "Unirse a la Comunidad de Telegram",
+  "Updates Channel": "Canal de Actualizaciones",
+  "Latest news & releases": "Últimas Novedades & Lanzamientos",
+  "Source Code": "Codigo Fuente",
+  "View on GitHub": "Ver en GitHub",
 
   /* Actions */
-  "Export Report": "Export Informe",
-  "Generate diagnostic logs": "Generar diagnostic registros",
+  "Export Report": "Exportar Reporte",
+  "Generate diagnostic logs": "Generar registros de diagnostico",
 
   /* Toasts */
-  "Opening...": "Apertura...",
-  "Failed to open link": "falló para abrir link",
-  "Exported to /sdcard/report.json": "Exported para /sdcard/report.json",
-  "Failed to export": "falló para export",
+  "Opening...": "Abriendo...",
+  "Failed to open link": "Falló al abrir el link",
+  "Exported to /sdcard/report.json": "Exportado en /sdcard/report.json",
+  "Failed to export": "Falló al exportar",
   
   /* GMS Spoofing Manager */
-  "GMS Spoofing Manager": "Servicios móviles de Gúguel Suplantación Administrador",
-  "Inbuilt spoofing configuration": "Inbuilt suplantación configuración",
+  "GMS Spoofing Manager": "Administrador de Suplantacion GMS",
+  "Inbuilt spoofing configuration": "Configuración de suplantación integrada",
 
   /* Sections */
-  "Google Play Services": "Servicios de Gúguel Reproducción",
-  "Google Play Store": "Gúguel Reproducción Tienda",
+  "Google Play Services": "Servicios de Google Play",
+  "Google Play Store": "Google Play Store",
 
   /* GMS Spoofing */
-  "Enable Device Spoofing": "Activar dispositivo Suplantación",
-  "Resume the ROM's inbuilt GMS spoofing": "Resume el ROM's inbuilt Servicios móviles de Gúguel suplantación",
-  "Disable Device Spoofing": "Desactivar dispositivo Suplantación",
-  "Pause the ROM's inbuilt GMS spoofing": "Pause el ROM's inbuilt Servicios móviles de Gúguel suplantación",
+  "Enable Device Spoofing": "Activar Suplantacion de Dispositivo",
+  "Resume the ROM's inbuilt GMS spoofing": "Reanude la suplantación de GMS integrada en la ROM",
+  "Disable Device Spoofing": "Desactivar Suplantacion de Dispositivo",
+  "Pause the ROM's inbuilt GMS spoofing": "Detener la suplantación de GMS integrada en la ROM",
 
   /* Play Store Spoofing */
-  "Enable Play Store Spoofing": "Activar Reproducción Tienda Suplantación",
-  "Resume the ROM's inbuilt Play Store spoofing": "Resume el ROM's inbuilt Reproducción Tienda suplantación",
-  "Disable Play Store Spoofing": "Desactivar Reproducción Tienda Suplantación",
-  "Pause the ROM's inbuilt Play Store spoofing": "Pause el ROM's inbuilt Reproducción Tienda suplantación",
+  "Enable Play Store Spoofing": "Activar la suplantanción de Play Store",
+  "Resume the ROM's inbuilt Play Store spoofing": "Reanudar la suplantanción de Play Store integrada en la ROM",
+  "Disable Play Store Spoofing": "Deshabilitar la suplantanción de Play Store",
+  "Pause the ROM's inbuilt Play Store spoofing": "Pausar la suplantanción de Play Store integrada en la ROM",
 
   /* Information */
-  "These options are intended for": "Estos options son intended para",
-  "custom ROM users": "personalizado Firmware usuarios",
-  "Choose the desired spoofing state and reboot the device to apply the change.": "elegir el desired suplantación state y reinicio el dispositivo para aplicar el change.",
+  "These options are intended for": "Estas opciones están destinadas a",
+  "custom ROM users": "usuarios de ROMs personalizadas",
+  "Choose the desired spoofing state and reboot the device to apply the change.": "Elija el estado de suplantación deseado y reinicie el dispositivo para aplicar el cambio.",
 
   /* Reboot */
-  "Reboot Device": "reinicio dispositivo",
-  "Reboot Device?": "reinicio dispositivo?",
-  "A reboot is required for the spoofing configuration changes to take effect.": "Un reinicio es necesario para el suplantación configuración cambios para take effect.",
+  "Reboot Device": "Reiniciar Dispositivo",
+  "Reboot Device?": "Reiniciar Dispositivo?",
+  "A reboot is required for the spoofing configuration changes to take effect.": "Es necesario reiniciar el dispositivo para que los cambios en la configuración de suplantación surtan efecto.",
   "Cancel": "Cancelar",
   "Reboot": "Reiniciar",
 
   /* Loader */
-  "Applying changes...": "Applying cambios...",
-  "Resetting configuration...": "Resetting configuración...",
-  "Disabling...": "Disabling...",
-  "Enabling...": "Enabling...",
-  "Rebooting...": "Rebooting...",
+  "Applying changes...": "Aplicando cambios...",
+  "Resetting configuration...": "Reestableciendo configuracion...",
+  "Disabling...": "Desactivando...",
+  "Enabling...": "Activando...",
+  "Rebooting...": "Reiniciando...",
 
   /* Toasts */
-  "Too many options selected. All settings cleared.": "Demasiado many options seleccionado. todo ajustes borrado.",
-  "Please wait before switching again": "Espera before switching again",
-  "Cannot select the opposite option. Deselect it first.": "Cannot seleccionar el opposite option. Deselect eso first.",
-  "Maximum 2 options allowed. Deselect one first.": "Maximum 2 options allowed. Deselect one first.",
-  "Reboot to apply changes": "reinicio para aplicar cambios",
-  "Failed to apply changes": "falló para aplicar cambios",
-  "Rebooting device...": "Rebooting dispositivo...",
-  "Reboot command failed": "reinicio command falló",
+  "Too many options selected. All settings cleared.": "Se han seleccionado demasiadas opciones. Se han borrado todos los ajustes.",
+  "Please wait before switching again": "Espere antes de volver a cambiar",
+  "Cannot select the opposite option. Deselect it first.": "No se puede seleccionar la opción opuesta. Desmárquela primero.",
+  "Maximum 2 options allowed. Deselect one first.": "Se permite un máximo de 2 opciones. Desmarque una primero.",
+  "Reboot to apply changes": "Reinicie para aplicar los cambios",
+  "Failed to apply changes": "Error al aplicar los cambios",
+  "Rebooting device...": "Reiniciando el dispositivo...",
+  "Reboot command failed": "Error en el comando de reinicio",
   
   /* Translation Team */
-  "Translation Team": "Translation Equipo",
-  "Contributors": "Contributors",
-  "The people helping make Integrity Box available to users around the world.": "el people helping make Caja de Integridad disponible para usuarios around el world.",
+  "Translation Team": "Equipo de Traducción",
+  "Contributors": "Contribuyentes",
+  "The people helping make Integrity Box available to users around the world.": "Las personas que contribuyen a que Integrity Box esté disponible para los usuarios de todo el mundo.",
 
   /* Contributor */
-  "Contributor": "Contributor",
-  "Language:": "Language:",
+  "Contributor": "Contribuyente",
+  "Language:": "Idioma:",
   "View profile": "Ver perfil",
 
   /* Loading & Errors */
-  "Opening link...": "Apertura link...",
-  "No contributors found.": "No contributors encontrado.",
-  "Unable to load contributors": "Unable para load contributors",
-  "Unknown error": "Unknown error",
+  "Opening link...": "Abriendo link...",
+  "No contributors found.": "Contribuyente no encontrado.",
+  "Unable to load contributors": "No se han podido cargar los colaboradores",
+  "Unknown error": "Error desconocido",
   
   /* Bootloader Spoofer */
-  "Bootloader Spoofer": "Cargador de arranque Suplantador",
+  "Bootloader Spoofer": "Suplantacion de Bootloader",
 
   /* Search & Stats */
-  "Search packages...": "Search packages...",
+  "Search packages...": "Buscar paquetes...",
   "Apps": "Aplicaciones",
   "Spoofed": "Suplantado",
-  "Blocked": "Blocked",
-  "Spoof All": "Suplantación todo",
-  "Blacklist All": "Lista negra todo",
-  "No apps match your search": "No aplicaciones match tu search",
+  "Blocked": "Bloqueado",
+  "Spoof All": "Suplantar Todo",
+  "Blacklist All": "Todo En Lista Negra",
+  "No apps match your search": "Ninguna aplicación coincide con la búsqueda",
 
   /* Actions */
   "Backup": "Copia de seguridad",
   "Restore": "Restaurar",
 
   /* Information */
-  "About Bootloader Spoofer": "Acerca de Cargador de arranque Suplantador",
-  "Checked apps will be able to use the keybox to pass Play Integrity checks.": "Checked aplicaciones hará ser able para usar el caja de claves para pass Integridad de Reproducción checks.",
+  "About Bootloader Spoofer": "Acerca de Suplantacion de Bootloader",
+  "Checked apps will be able to use the keybox to pass Play Integrity checks.": "Las aplicaciones verificadas podrán utilizar la caja de llaves para superar las comprobaciones de integridad de Play.",
   "Blacklist": "Lista negra",
-  "Blacklisted apps are excluded entirely. They are removed from spoofed and blocked from processing. Removing an app from the blacklist automatically restores it to spoofed.": "Blacklisted aplicaciones son excluded entirely. They son eliminado de suplantado y blocked de processing. Removing un aplicación de el lista negra automáticamente restores eso para suplantado.",
+  "Blacklisted apps are excluded entirely. They are removed from spoofed and blocked from processing. Removing an app from the blacklist automatically restores it to spoofed.": "Las aplicaciones incluidas en la lista negra quedan totalmente excluidas. Se eliminan de la categoría «suplantadas» y se bloquea su procesamiento. Al eliminar una aplicación de la lista negra, esta vuelve automáticamente a la categoría «suplantadas».",
 
   /* Confirmation */
-  "Confirm": "Confirm",
-  "Are you sure?": "son tú sure?",
+  "Confirm": "Confirmar",
+  "Are you sure?": "Estás seguro?",
   "Cancel": "Cancelar",
-  "This will add all available apps to the spoofed list. Apps currently blacklisted will not be affected.": "esto hará add todo disponible aplicaciones para el suplantado list. aplicaciones actualmente blacklisted hará no ser affected.",
-  "This will blacklist all apps and remove them from spoofed. Are you sure?": "esto hará lista negra todo aplicaciones y eliminar ellos de suplantado. son tú sure?",
+  "This will add all available apps to the spoofed list. Apps currently blacklisted will not be affected.": "Esto añadirá todas las aplicaciones disponibles a la lista de aplicaciones suplantadas. Las aplicaciones que ya figuran en la lista negra no se verán afectadas.",
+  "This will blacklist all apps and remove them from spoofed. Are you sure?": "Esto añadirá todas las aplicaciones a la lista negra y las eliminará de «suplantadas». ¿Estás seguro?",
 
   /* Spoofing */
-  "Package is blacklisted": "Package es blacklisted",
-  "Removed from spoofed": "eliminado de suplantado",
-  "Added to spoofed": "añadido para suplantado",
-  "Write failed": "Write falló",
-  "Unblacklisted & restored to spoofed": "Unblacklisted & restauradas para suplantado",
-  "Blacklisted": "Blacklisted",
-  "Blacklist updated, spoofed sync failed": "Lista negra actualizado, suplantado sync falló",
+  "Package is blacklisted": "Paquete esta en la lista negra",
+  "Removed from spoofed": "Removido de suplantado",
+  "Added to spoofed": "Añadido a suplantado",
+  "Write failed": "Escritura falló",
+  "Unblacklisted & restored to spoofed": "Se ha eliminado de la lista negra y se ha restablecido a «suplantado»",
+  "Blacklisted": "En la lista negra",
+  "Blacklist updated, spoofed sync failed": "Se ha actualizado la lista negra; ha fallado la sincronización de suplatanción",
 
   /* Bulk Actions */
-  "All available apps already spoofed": "todo disponible aplicaciones already suplantado",
-  "Spoofed ${added} apps": "Suplantado ${added} aplicaciones",
-  "Failed to update spoofed": "falló para actualizar suplantado",
-  "All apps already blacklisted": "todo aplicaciones already blacklisted",
-  "Blacklisted ${added} apps": "Blacklisted ${added} aplicaciones",
-  "Failed to update blacklist": "falló para actualizar lista negra",
-  "Blacklist updated, spoofed removal failed": "Lista negra actualizado, suplantado removal falló",
+  "All available apps already spoofed": "Todas las aplicaciones disponibles ya han sido suplantadas",
+  "Spoofed ${added} apps": "Se añadieron ${added} aplicaciones a suplatandas",
+  "Failed to update spoofed": "Falló al actualizar a suplantada",
+  "All apps already blacklisted": "Todas las aplicaciones ya en lista negra",
+  "Blacklisted ${added} apps": "Se añadieron ${added} aplicaciones a la lista negra",
+  "Failed to update blacklist": "Error al actualizar la lista negra",
+  "Blacklist updated, spoofed removal failed": "Lista negra actualizada, error al eliminar de suplantadas",
 
   /* Backup & Restore */
-  "Backup saved to Download": "Copia de seguridad guardado para descargar",
-  "Backup failed: ": "Copia de seguridad falló: ",
-  "Restored ${lines.length} apps from backup": "Restauradas ${lines.length} aplicaciones de copia de seguridad",
-  "No backup found. Tap Backup first.": "No copia de seguridad encontrado. Toque Copia de seguridad first.",
+  "Backup saved to Download": "Copia de seguridad guardada en Descargas",
+  "Backup failed: ": "Error en la copia de seguridad: ",
+  "Restored ${lines.length} apps from backup": "Se restauraron ${lines.length} aplicaciones desde la copia de seguridad",
+  "No backup found. Tap Backup first.": "No se encontró ninguna copia de seguridad. Toque primero en Copia de seguridad."
   
 };
