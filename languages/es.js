@@ -511,7 +511,7 @@ window.i18nDict.es = {
   "Kernel (requires reboot)": "Kernel (requiere reinicio)",
   "Flag:": "Opción:",
   "Enabled": "Habilitado",
-  "Disabled": "Deshabilitado"
+  "Disabled": "Deshabilitado",
   
   /* Hide My Files */
   "Hide My Files": "Ocultar Mis Archivos",
