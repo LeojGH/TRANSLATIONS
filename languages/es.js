@@ -15,10 +15,10 @@ window.i18nDict.es = {
 
   /* Quick Actions */
   "Quick Actions": "Acciones Rápidas",
-  "Bootloader Spoofers": "Spoofers del Cargador de Arranque",
+  "Bootloader Spoofers": "Suplantación del Bootloader",
   "Control which app will use keybox": "Controla qué aplicaciones usarán la caja de llaves",
   "Prop Spoofing": "Suplantador de Propiedades",
-  "Global system property spoof": "Spoof Global de Propiedades del Sistema",
+  "Global system property spoof": "Suplantación Global de Propiedades del Sistema",
   "Module Settings": "Ajustes del Módulo",
   "Customize module behaviour": "Personalizar el Comportamiento del Módulo",
   "Repair Mode": "Modo Reparación",
@@ -33,7 +33,7 @@ window.i18nDict.es = {
 
   /* Announcements */
   "UPDATES": "ACTUALIZACIONES",
-  "Latest changes and news from Integrity Box.": "Últimos Cambios y Novedades de Caja de Integridad.",
+  "Latest changes and news from Integrity Box.": "Últimos Cambios y Novedades de Integrity Box.",
   "Refresh": "Actualizar",
   "Loading announcements...": "Cargando Anuncios...",
   "Unable to load announcements. Check your connection and try again.": "No se han podido cargar los anuncios. Comprueba tu conexión e inténtalo de nuevo.",
@@ -47,11 +47,11 @@ window.i18nDict.es = {
   "All interface settings will be restored to their default values.": "Todas las configuraciones de la interfaz se restaurarán a sus valores predeterminados.",  "UI Layout": "Diseño de la Interfaz",
   "Standard": "Estándar",
   "Enhanced": "Mejorado",
-  "Edge swipe to back": "Deslizar desde el borde para volver atrás",
+  "Edge swipe to back": "Deslizar Desde el Borde Para Volver Atrás",
   "Swipe from the configured screen edge": "Desliza el dedo desde el borde de la pantalla configurado",
-  "Full screen mode": "Modo de Pantalla Completa.",
+  "Full screen mode": "Modo de Pantalla Completa",
   "Use the entire display for Integrity Box": "Utiliza toda la pantalla para Caja de Integridad",
-  "Gradient background": "Fondo con Degradado",
+  "Gradient background": "Fondo Con Degradado",
   "Use a slow moving gradient background": "Utiliza un fondo con un degradado de movimiento lento",
   "Skip intro": "Omitir Intro",
   "Open Integrity Box directly without the intro screen": "Abrir Integrity Box directamente sin la pantalla de introducción",
@@ -59,11 +59,11 @@ window.i18nDict.es = {
   "Keep local UI resources available for faster loading": "Mantén disponibles los recursos locales de la interfaz para cargar más rapido",
   "Opening toasts": "Brindis de Bienvenida",
   "Show a popup when an iframe tool is opened": "Mostrar una ventana emergente cuando se abre una herramienta de iframe",
-  "Edge tap to back": "Toque en el borde hacia atrás",
+  "Edge tap to back": "Toque en el Borde Hacia Atrás",
   "A simple tap on the active edge closes an iframe": "Basta con tocar el borde activo para cerrar un iframe.",
   "Floating back button": "Botón «Atrás» flotante",
   "Show a back button inside opened tools": "Mostrar un botón de «Atrás» dentro de las herramientas abiertas",
-  "Tab swipe navigation": "Navegación mediante deslizamiento por pestañas",
+  "Tab swipe navigation": "Navegación Mediante Deslizamiento por Pestañas",
   "Swipe left/right to change Home, Tools and More": "Desliza hacia la izquierda o hacia la derecha para cambiar entre «Inicio», «Herramientas» y «Más»",
   "Edge gesture side": "Lado de los gestos en el borde",
   "Left edge": "Borde Izquierdo",
@@ -106,7 +106,7 @@ window.i18nDict.es = {
   "Tools": "Herramientas",
   "Keybox": "Caja de Llaves",
   "Keybox Downloader": "Descargador de Caja de Llaves",
-  "Download and modify Keybox source": "Descargar y Modificar Fuente de Caja de Llaves",
+  "Download and modify Keybox source": "Descarga y modifica la fuente de la Caja de Llaves",
   "Import Keybox": "Importar Caja de Llaves",
   "Set keybox from internal storage": "Establecer Caja de Llaves desde el Almacenamiento Interno",
   "Auto Pilot": "Piloto Automático",
@@ -116,7 +116,7 @@ window.i18nDict.es = {
   "Spoofing": "Suplantación",
   "Play Integrity": "Integridad de Play",
   "PIF fingerprint configuration": "Configuración de huellas digitales PIF",
-  "ROM Spoofing": "Suplatancion de ROM",
+  "ROM Spoofing": "Suplantanciín de ROM",
   "Custom ROM property overrides": "Modificaciones de propiedades en las ROM personalizadas",
   "Per App Spoofing": "Suplantación de identidad por aplicación",
   "App-specific property injection": "Inyección de propiedades específicas de la aplicación",
@@ -138,7 +138,7 @@ window.i18nDict.es = {
   "WebUI Translation Team": "Equipo de traducción de la WebUI",
   "Thanks to these people": "Gracias a estas personas",
   "Resources": "Recursos",
-  "Integrity Downloader": "Integridad Downloader",
+  "Integrity Downloader": "Integrity Downloader",
   "Useful tools and files": "Herramientas y archivos útiles",
   "Preferences": "Preferencias",
   "Language": "Idioma",
@@ -154,7 +154,7 @@ window.i18nDict.es = {
   "Build": "Compilación",
   "Architecture": "Arquitectura",
   "CPU": "CPU",
-  "Integrity Box Configuration": "Caja de Integridad Configuración",
+  "Integrity Box Configuration": "Configuración de Integrity Box",
   "Profile": "Perfil",
   "Custom ROM Props": "Propiedades de las ROM personalizadas",
   "SELinux Status": "Estado de SELinux",
@@ -166,7 +166,7 @@ window.i18nDict.es = {
   "Zygiskless Mode": "Modo Zygiskless",
   "Apps prevented from accessing keybox": "Se impide el acceso de las aplicaciones al almacén de llaves",
   "Advanced Spoofing": "Suplantación Avanzada",
-  "Boot Hash Config": "Configuración del hash de arranque",
+  "Boot Hash Config": "Configuración del Hash de Arranque",
   "RUNTIME": "TIEMPO DE EJECUCIÓN",
 
   /* Integrity Status */
@@ -276,7 +276,7 @@ window.i18nDict.es = {
   "shell error": "shell error",
 
   /* Developer Mode */
-  "Developer Mode": "Modo desarrollador",
+  "Developer Mode": "Modo Desarrollador",
   "Help": "Ayuda",
   "Core Settings": "Ajustes Principales",
   "Zygiskless Mode": "Modo Zygiskless",
@@ -328,7 +328,7 @@ window.i18nDict.es = {
   /* Meow Downloader */
   "Meow Downloader": "Meow Downloader",
   "Output: /sdcard/Download/IntegrityModules": "Salida: /sdcard/Download/IntegrityModules",
-  "Select All": "Seleccionar todo",
+  "Select All": "Seleccionar Todo",
   "Clear All": "Borrar todo",
   "Download Selected": "Descargar lo seleccionado",
   "Download Progress": "Progreso de la descarga",
@@ -526,7 +526,7 @@ window.i18nDict.es = {
 
   /* Toolbar */
   "Select All": "Seleccionar Todo",
-  "Deselect All": "Deseleccionar todo",
+  "Deselect All": "Deseleccionar Todo",
   "All Move": "Mover Todo",
   "All Rename": "Renombrar Todo",
 
@@ -622,15 +622,15 @@ window.i18nDict.es = {
   "You can download the keybox from any of the unofficial sources mentioned above by clicking the Download button. The downloaded keybox will automatically replace the existing keybox at its current path, so no manual changes or configuration are required": "Puedes descargar el keybox desde cualquiera de las fuentes no oficiales mencionadas anteriormente haciendo clic en el botón «Descargar». El keybox descargado sustituirá automáticamente al keybox existente en su ruta actual, por lo que no es necesario realizar ningún cambio ni configuración manual.",
   
   /* AutoPilot Manager */
-  "AutoPilot Manager": "AutoPilot Administrador",
+  "AutoPilot Manager": "Piloto Automatico",
   "System Status": "Estado del Sistema",
-  "Automation Service": "Servicio de automatización",
+  "Automation Service": "Servicio de Automatización",
   "Checking...": "Comprobando...",
   "Active and running": "Activo y ejecutándose",
   "Disabled": "Desactivado",
   "Daemon Heartbeat": "Daemon Heartbeat",
-  "Last GitHub Check": "Última comprobación de GitHub",
-  "Emergency Level": "Nivel de emergencia",
+  "Last GitHub Check": "Última Comprobación de GitHub",
+  "Emergency Level": "Nivel de Emergencia",
   "Master Control": "Control Maestro",
   "None": "Ninguno",
 
@@ -693,7 +693,7 @@ window.i18nDict.es = {
 
   /* Master Control */
   "Master Control": "Control Maestro",
-  "Spoof Apps": "Suplantación de aplicaciones",
+  "Spoof Apps": "Suplantación de Aplicaciones",
   "About Spoof Apps": "Acerca de «Suplantación de aplicaciones»",
   "Enable per-app pixel spoofing for selected apps. Apps in your list will receive spoofed build properties (model, fingerprint, device info) when they request them.": "Activa la suplantación de Pixel por aplicación para las aplicaciones seleccionadas. Las aplicaciones de tu lista recibirán propiedades de compilación suplantadas (modelo, huella digital, información del dispositivo) cuando las soliciten",
   "How to use:": "Como usar:",
@@ -704,7 +704,7 @@ window.i18nDict.es = {
   "This feature depends on Zygisk. You're running in Zygisk-less mode, so per-app spoofing is unavailable.": "Esta función depende de Zygisk. Estás utilizando el modo Zygisk-less, por lo que la suplantación por aplicación no está disponible.",
 
   /* App List */
-  "App List": "Lista de aplicaciones",
+  "App List": "Lista de Aplicaciones",
   "System Apps": "Aplicaciones del Sistema",
   "Backup": "Copia de Seguridad",
   "Restore": "Restaurar",
@@ -752,7 +752,7 @@ window.i18nDict.es = {
   "Zygisk Injection": "Inyeccion Zygisk",
   "Resume Zygisk": "Reanudar Zygisk",
   "Zygisk injection is paused. Tap to resume.": "La inyección de Zygisk se ha detenido. Toca para reanudarla.",
-  "Pause Zygisk": "Zygisk pausado",
+  "Pause Zygisk": "Zygisk Pausado",
   "Tap to pause zygisk injection": "Toca para pausar la inyección de Zygisk",
 
   /* Customize Integrity Behaviour */
@@ -773,12 +773,12 @@ window.i18nDict.es = {
   /* PIF Controls */
   "PIF Controls": "Controles de Reparación de Integridad",
   "Pixelify Playstore": "Píxelify Playstore",
-  "Pixel Fingerprint": "Huella digital Píxel",
+  "Pixel Fingerprint": "Huella Digital Píxel",
   "Build Spoof": "Suplantación de Compilación",
   "GMS Spoof": "Suplantación de Servicios móviles de Google",
   "Attestation API": "Certificación API",
   "ROM Signature": "Firma de la ROM",
-  "A10 Downgrade SDK": "SDK de degradación de A10",
+  "A10 Downgrade SDK": "SDK de Degradación de A10",
 
   /* PIF Descriptions */
   "Spoofs latest canary Pixel-exclusive build properties to playstore. Keep this enabled if your android version is 13 or higher": "Falsifica las últimas propiedades de la versión «Canary» exclusiva para Pixel en Play Store. Mantén esta opción activada si tu versión de Android es la 13 o superior.",
@@ -873,7 +873,7 @@ window.i18nDict.es = {
   "You’ve enabled the Hook Prop Spoofer. It removes the hook-related props it finds, but doing this can also turn your ROM’s built-in spoofing back on. So after running the Prop Spoofer, just make sure you manually turn off the spoofing option in your ROM settings. Otherwise, it will start conflicting with integrity box and your play integrity will fail after reboot.": "Has activado el «Suplantador de propiedades por interceptación». Este elimina las propiedades relacionadas con el interceptor que encuentra, pero al hacerlo también puede reactivar la suplantación integrada en tu ROM. Por lo tanto, tras ejecutar el «Suplantador de propiedades por interceptación», asegúrate de desactivar manualmente la opción de suplantación en la configuración de tu ROM. De lo contrario, entrará en conflicto con «Caja de Integridad» y tu «Integridad de Play» fallará tras el reinicio.",
 
   /* Controls */
-  "Select All": "Seleccionar todo",
+  "Select All": "Seleccionar Todo",
   "Clear All": "Desmarcar todo",
   "Duck Props": "Propiedades Duck",
   "Duck Props ON": "Propiedades Duck encendidas",
@@ -977,7 +977,7 @@ window.i18nDict.es = {
   "Got it": "Entendido",
   
   /* Repair Mode */
-  "Repair Mode": "Modo reparación",
+  "Repair Mode": "Modo Reparación",
   "powered by IntegrityBox": "desarrollado por IntegrityBox",
   "Info": "Info",
   "%": "%",
@@ -1031,13 +1031,13 @@ window.i18nDict.es = {
   "Pause the ROM's inbuilt GMS spoofing": "Detener la suplantación de GMS integrada en la ROM",
 
   /* Play Store Spoofing */
-  "Enable Play Store Spoofing": "Activar la suplantanción de Play Store",
+  "Enable Play Store Spoofing": "Activar la Suplantanción de Play Store",
   "Resume the ROM's inbuilt Play Store spoofing": "Reanudar la suplantanción de Play Store integrada en la ROM",
-  "Disable Play Store Spoofing": "Deshabilitar la suplantanción de Play Store",
+  "Disable Play Store Spoofing": "Deshabilitar la Suplantanción de Play Store",
   "Pause the ROM's inbuilt Play Store spoofing": "Pausar la suplantanción de Play Store integrada en la ROM",
 
   /* Information */
-  "These options are intended for": "Estas opciones están destinadas a",
+  "These options are intended for": "Estas opciones están destinadas a ",
   "custom ROM users": "usuarios de ROMs personalizadas",
   "Choose the desired spoofing state and reboot the device to apply the change.": "Elija el estado de suplantación deseado y reinicie el dispositivo para aplicar el cambio.",
 
@@ -1094,7 +1094,7 @@ window.i18nDict.es = {
   "No apps match your search": "Ninguna aplicación coincide con la búsqueda",
 
   /* Actions */
-  "Backup": "Copia de seguridad",
+  "Backup": "Copia de Seguridad",
   "Restore": "Restaurar",
 
   /* Information */
@@ -1132,6 +1132,6 @@ window.i18nDict.es = {
   "Backup saved to Download": "Copia de seguridad guardada en Descargas",
   "Backup failed: ": "Error en la copia de seguridad: ",
   "Restored ${lines.length} apps from backup": "Se restauraron ${lines.length} aplicaciones desde la copia de seguridad",
-  "No backup found. Tap Backup first.": "No se encontró ninguna copia de seguridad. Toque primero en Copia de seguridad."
+  "No backup found. Tap Backup first.": "No se encontró ninguna copia de seguridad. Toque primero en Copia de seguridad.",
   
 };
